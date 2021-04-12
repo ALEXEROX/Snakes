@@ -1,0 +1,9 @@
+* {
+    background-color: #006600;
+    color: #00aa00;
+}
+
+canvas {
+    display: block;
+    background-color: #005500;
+}
